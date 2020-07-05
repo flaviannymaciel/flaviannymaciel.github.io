@@ -1,10 +1,10 @@
 # Portfólio de Projetos
 
-* Olá, sou ** Flavi Mussi ***,
+*Olá, sou **Flavi Mussi***,
 
-* Atualmente, estou estudando ** desenvolvimento de software ** em [Trybe] (https://www.betrybe.com/) *: rocket:
+*Atualmente, estou estudando **desenvolvimento de software** em [Trybe] (https://www.betrybe.com/)*: rocket:
 
-* Aqui você encontra alguns projetos que já desenvolvi! *
+*Aqui você encontra alguns projetos que já desenvolvi!*
 
 ## Contato
 - [LinkedIn] (https://www.linkedin.com/in/fmmussi/)
