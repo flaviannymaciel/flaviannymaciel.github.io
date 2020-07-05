@@ -75,6 +75,13 @@ ul {
   margin-top: 20px;
 }
 
+ol {
+  text-align: center;
+  margin-top: 35px;
+  margin-left: 35px;
+
+}
+
 .lado-esquerdo {
   float: left;
 }
@@ -82,17 +89,16 @@ ul {
 .lado-direito {
   float: right;
   line-height: 28px;
-  margin: 45px 180px;
+  margin: 40px 180px;
+  position: relative;
+  bottom: 20px;
 }
 
 #contato {
   min-height: 200px;
   margin-left: 15%;
   text-align: center;
-}
-
-.tabela {
-  border: solid 2px rgb(172 , 88 , 227);
+  margin-top: 15px;
 }
 
 #rodape {
