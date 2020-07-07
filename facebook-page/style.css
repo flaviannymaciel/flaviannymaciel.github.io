@@ -1,0 +1,152 @@
+body {
+  background: linear-gradient(white, rgb(211, 216, 232));
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  align-items: center;
+  background: rgb(60, 89, 152);
+  color: white;
+  display: flex;
+  font-size: 12px;
+  height: 80px;
+  justify-content: space-around;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.gambi1 {
+  color: rgb(60, 89, 152);
+}
+
+.esqueceuZe {
+  color: rgb(156, 180, 216);
+}
+
+.buttontop {
+  background: rgb(60, 89, 152);
+  border-radius: 3px;
+  color: white;
+  font-weight: 800;
+}
+
+.formDir {
+  display: flex;
+  flex-direction: row;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 2em;
+  padding-left: 10px;
+}
+
+.facebook-logo {
+  margin-top: 0;
+  width: 180px;
+}
+
+.text-main {
+  color: rgb(60, 89, 152);
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.netwo {
+  margin-left: 5%;
+  width: 380px;
+}
+
+.Ocontainer {
+  align-content: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.lado-direito {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4% 10%;
+  width: 50%;
+}
+
+.lado-esquerdo {
+  padding: 4% 10%;
+  width: 50%;
+}
+
+.topR {
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+h1 {
+  color: rgb(51, 51, 51);
+  font-size: 2.5em;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+.signIn {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 400px;
+}
+
+.oneline {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.inputing {
+  border-color: #bdc7d8;
+  border-radius: 5px;
+  line-height: 3em;
+  margin-bottom: 10px;
+  width: 98%;
+}
+
+.mgZ {
+  color: rgb(150, 150, 150);
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.date {
+  display: block;
+  margin-top: 5px;
+}
+
+.vaiC {
+  color: grey;
+  font-size: 0.7em;
+  padding-bottom: 15px;
+  padding-top: 7px;
+}
+
+.btnCadas {
+  background: linear-gradient(#67ae55, #578843);
+  background-color: #69a74e;
+  border: 1px solid;
+  border-color: #3b6e22 #3b6e22 #2c5115;
+  border-radius: 5px;
+  color: white;
+  font-size: 19px;
+  letter-spacing: 1px;
+  padding: 7px 40px;
+  text-align: center;
+  width: 200px;
+}
