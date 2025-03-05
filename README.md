@@ -8,4 +8,3 @@
 
 ## Contato
 - [LinkedIn] (https://www.linkedin.com/in/fmmussi/)
-- [Twitter] (https://twitter.com/flavimussi)
